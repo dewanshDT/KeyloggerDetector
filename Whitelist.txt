@@ -1,0 +1,4 @@
+WhatsApp.exe
+chrome.exeC:\Program Files\Google\Chrome\Application\chrome.exe  
+C:\Program Files\Google\Chrome\Application\chrome.exe  
+C:\Program Files\Google\NearbyShare\nearby_share.exe  
